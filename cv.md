@@ -33,7 +33,7 @@ const multiply = (a,b) => a * b;
 * RS Schools Course [«JavaScript/Front-end. Stage 0»](https://rs.school/) (in progress)
 ***
 ## Languages
-* English - Proficient (according to the online test at ![efset](https://annavoloshina.github.io/rsschool-cv/images/efset-logo.png) www.efset.org)
+* English - Proficient (according to the online test at ![efset](https://annavoloshina.github.io/rsschool-cv/images/efset-logo.png) (www.efset.org)
 ![English](https://cdn.efset.org/efset-widget/img/certificate_75.png)
 * Russian - Native
 * Czech - Basic
