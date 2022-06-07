@@ -29,7 +29,6 @@ const multiply = (a,b) => a * b;
 ***
 ## Courses
 * Quality assurance on the [Yandex Practitum](practicum.yandex.ru) (completed)
-![Diploma](https://prnt.sc/pNrUX9YG5fpY)
 * JavaScript Manual on [learnjavascript.ru](https://learn.javascript.ru/) (in progress)
 * RS Schools Course [«JavaScript/Front-end. Stage 0»](https://rs.school/) (in progress)
 ***
