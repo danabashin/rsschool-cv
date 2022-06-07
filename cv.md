@@ -23,16 +23,18 @@ I hope my knowledge and expirience will be enough to it.
 ***
 ## Code example:
 Multiply
-`const multiply = (a,b) => a * b;
+`
+const multiply = (a,b) => a * b;
+'
 ***
 ## Courses
 * Quality assurance on the [Yandex Practitum](practicum.yandex.ru) (completed)
-![Diploma](C:\Users\DabDabuDuba\OneDrive\Desktop\Screenshot_1.png)
+![Diploma](https://prnt.sc/pNrUX9YG5fpY)
 * JavaScript Manual on [learnjavascript.ru](https://learn.javascript.ru/) (in progress)
 * RS Schools Course [«JavaScript/Front-end. Stage 0»](https://rs.school/) (in progress)
 ***
 ## Languages
-* English - Proficient (according to the online test at ![efset](C:\Users\DabDabuDuba\OneDrive\Desktop\efset-logo) www.efset.org)
-![English](C:\Users\DabDabuDuba\OneDrive\Desktop\certificate_75.png)
+* English - Proficient (according to the online test at ![efset](https://annavoloshina.github.io/rsschool-cv/images/efset-logo.png) www.efset.org)
+![English](https://cdn.efset.org/efset-widget/img/certificate_75.png)
 * Russian - Native
 * Czech - Basic
